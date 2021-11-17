@@ -2,7 +2,7 @@
 
 - This is my avatar. And it is also my wechat avatar.
 
-![avatar](https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F1029072583574827268%2F&psig=AOvVaw3Pt8XNMe4JKMMP-aQuiiaX&ust=1637229281604000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCOjX2L-Qn_QCFQAAAAAdAAAAABAD)
+<img src="https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F1029072583574827268%2F&psig=AOvVaw3Pt8XNMe4JKMMP-aQuiiaX&ust=1637229281604000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCOjX2L-Qn_QCFQAAAAAdAAAAABAD”>
 
 - I love Taylor Swift.
 
